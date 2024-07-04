@@ -1,6 +1,6 @@
-Bunny Bet is a web3 casino game built on blockchain technology. Players can wager and win using cryptocurrency, experiencing a secure, transparent, and provably fair gaming environment.
+**Bunny Bet** is a web3 casino game built on blockchain technology. Players can wager and win using cryptocurrency, experiencing a secure, transparent, and provably fair gaming environment.
 
-Bunny Bet offers a unique and innovative approach to online casino gaming by leveraging the power of blockchain technology. By prioritizing security, transparency, and provably fair gameplay, Bunny Bet aims to create a trusted and exciting gaming experience for crypto users.
+**Bunny Bet** offers a unique and innovative approach to online casino gaming by leveraging the power of blockchain technology. By prioritizing security, transparency, and provably fair gameplay, Bunny Bet aims to create a trusted and exciting gaming experience for crypto users.
 
 
 **Target Audience:**
